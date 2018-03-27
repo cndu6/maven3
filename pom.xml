@@ -24,12 +24,12 @@
   
 	<repository>
     <id>deployment</id>
-    <url>http://18.188.137.58:8081/nexus-2.14.8-01/content/repositories/releases/</url>
+    <url>http://18.188.137.58:8081/nexus/content/repositories/releases/</url>
     </repository>
     
 	<snapshotRepository>
     <id>deployment</id>
-    <url>http://18.188.137.58:8081/nexus-2.14.8-01/content/repositories/snapshots/</url>
+    <url>http://18.188.137.58:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
   
   
